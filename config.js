@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = 'https://osrs-backend.vizi.sh'
+const CONFIG_BACKEND_URL = 'https://osrs-backend-temp.herokuapp.com/'
