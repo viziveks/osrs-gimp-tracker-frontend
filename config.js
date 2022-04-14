@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = 'https://osrs-backend.vizi.sh:5000'
+const CONFIG_BACKEND_URL = 'https://osrs-backend.vizi.sh'
